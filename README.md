@@ -12,5 +12,5 @@ Use npm install
 Use 'npm start'
 
 # To view the app on your Android/iOS devices
-Scan the QR code above with Expo Go (Android) or the Camera app (iOS). Install expo client on your device to get this feature work
+Scan the QR code on CLI with Expo Go (Android) or the Camera app (iOS). Install expo client on your device to get this feature work
 
